@@ -79,4 +79,13 @@ def uninitializePlugin(mobject):
         om.MGlobal.displayError("Erreur lors du déchargement du plugin")
 
 
-        
+
+"""
+-delete history all mesh select
+-freeze transform all mesh select
+-add texture all mesh select
+	--texture nom du mesh
+
+-delete les grp vide
+-rename en enlevant les pasted
+"""
