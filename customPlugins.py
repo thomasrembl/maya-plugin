@@ -179,3 +179,5 @@ def uninitializePlugin(mobject):
         print("Plugin Custom Shelf déchargé")
     except:
         om.MGlobal.displayError("Erreur lors du déchargement du plugin")
+
+# Pour tester le plugin directement dans Maya, vous pouvez exécuter :
